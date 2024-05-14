@@ -39,4 +39,4 @@ def txt_new():
     
     txt_back = font.render("back", False, black)
 
-    window.blit(txt_back, (15, 15))
+    window.blit(txt_back, (25, 25))

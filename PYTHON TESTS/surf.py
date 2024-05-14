@@ -40,8 +40,10 @@ def surface_main():
 
 # [ new mode ] buttons
 
+NRect_gui = pygame.Rect((0, 0, window.get_width(), 90))
 Nrect_back =  pygame.Rect((10, 10, 173, 65))
     
 def surface_new():    
     
-    pygame.draw.rect(window, (163, 163, 163), Nrect_back)
+    pygame.draw.rect(window, dark_cyan, NRect_gui)
+    pygame.draw.rect(window, (99, 127, 150), Nrect_back)
