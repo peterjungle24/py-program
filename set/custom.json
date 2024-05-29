@@ -1,0 +1,31 @@
+{
+
+    "mode" : "main",
+
+    "main" : 
+    {
+
+        "icon" : "assets/bealty_icon.png",
+        "font" : "assets/Rodondo.otf",
+        "caption-main" : "Main Window",
+        "caption-new" : "New Window"
+
+    },
+
+    "text" : 
+    {
+
+        "txt-title" : "some app"
+
+    },
+
+    "color" : 
+    {
+
+        "background-color" : [0, 255, 255],
+        "GUI-color" : [0, 143, 143],
+        "button-color" : [0, 156, 156]
+        
+    }
+
+}
