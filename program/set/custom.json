@@ -1,0 +1,17 @@
+{
+
+  "main": {
+    
+    "font" : "set/font/Rodondo.otf"
+    
+  },
+  "color": {
+
+    "background" : [0, 150, 150],
+    "image-background" : [0, 100, 100],
+    "button" : [0, 120, 120],
+    "gui" : [0, 70, 70]
+
+  }
+
+}
